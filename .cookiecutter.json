@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Benjamin Floyd",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "dataplex@gmail.com",
+  "friendly_name": "Conjur Scenarios",
+  "github_user": "dataplex",
+  "license": "MIT",
+  "package_name": "conjurscenarios",
+  "project_name": "conjurscenarios",
+  "version": "0.0.0"
+}
